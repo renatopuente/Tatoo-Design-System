@@ -1,2 +1,2 @@
 # Tatoo-Design-System
-Atomic Desygn System
+Atomic Design System
